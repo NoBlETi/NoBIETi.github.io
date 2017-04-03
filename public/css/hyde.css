@@ -32,7 +32,8 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+  font-size: 300;
 }
 @media (min-width: 48em) {
   html {
