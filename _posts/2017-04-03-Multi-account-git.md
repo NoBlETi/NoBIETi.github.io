@@ -26,7 +26,7 @@ Host github.com
         User git
         IdentityFile ~/.ssh/id_rsa
 
-# Blog Account
+# Work Account
 Host github.com-work
         HostName github.com
         User git
