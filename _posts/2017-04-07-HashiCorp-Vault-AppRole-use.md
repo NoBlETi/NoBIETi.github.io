@@ -16,7 +16,7 @@ Below diagram briefly shows how the full process works... one pre-requisit for t
 ![alt text][approleDiagram]
 
 
-With [approle backed set up] done, we can now move to the service deployment process. The diagram shows ansable, but here we are just going to use a simple python script to replicate the same functionality. This approuch should not be used in production environments, as it is insecure!
+With [approle backed setup] done, we can now move to the service deployment process. The diagram shows ansable, but here we are just going to use a simple python script to replicate the same functionality. This approuch should not be used in production environments, as it is insecure!
 
 First we need to request Role-id (RID) and Wrapped Secret-id (WSID). We will look into wsid later...
 
@@ -150,5 +150,5 @@ Our test server runs over http, but obviously anything that is not local should 
 
 [vault's approle backend website]: https://www.vaultproject.io/docs/auth/approle.html
 [cubbyhole]: https://www.vaultproject.io/docs/secrets/cubbyhole/
-[approle backed set up]: {{ site.baseurl }}2017/04/06/HashiCorp-Vault-AppRole-install/
+[approle backed setup]: {{ site.baseurl }}2017/04/06/HashiCorp-Vault-AppRole-install/
 [approleDiagram]: {{ site.baseurl }}public/img/vault-approle-diagram.png
