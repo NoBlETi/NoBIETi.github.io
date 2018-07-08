@@ -4,5 +4,4 @@ title: How to Secure your company without security specialists
 published: False
 ---
 ## PROBLEM
-
-Cyber security is important, and with new legislation like GDPR (Good Data Protection Regulation) and 
+Almost all commercial security products are aimed nd prices for big corporations and require an army of security architects, engineers and analysts to deploy and managed them. 
