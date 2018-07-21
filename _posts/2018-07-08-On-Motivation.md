@@ -3,7 +3,7 @@ layout: post
 title: Something something
 published: True
 ---
-A year ago I've started a business. We (Me and my cofounder) are building a SaaS platform to help businesses improve their cyber security posture. How, and What is a topic for another day. q
+A year ago I've started a business. We (Me and my cofounder) are building a SaaS platform to help businesses improve their cyber security posture. How, and What is a topic for another day.
 
 ## Today I want to talk to myself about motivation. 
 It seems I have bad weeks, and good weeks... everyone has that, but I don't like it. 
